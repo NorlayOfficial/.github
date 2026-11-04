@@ -2,6 +2,8 @@
 
 **Turning real problems into better technology.**
 
+> **Norlay Code is discontinued.** It was never released and will not be released. [Read the notice](https://norlay.fit/norlay-code/).
+
 Norlay is an independent software brand by Yousef Elbanna, building practical desktop apps for the things people actually do every day. Accessibility is part of how each product is designed, not something added at the end.
 
 ## Products
@@ -16,7 +18,9 @@ An AI assistant for apps, files, the web, reminders and your calendar, with a 61
 
 Opens real project folders, reads and edits files, runs commands in a built-in terminal, and shows every change as a reviewable diff before anything lands.
 
-**Release pending** · [Details](https://norlay.fit/norlay-code/) · [Docs](https://norlay.fit/norlay-code/docs)
+Norlay Code was built for macOS and Windows but was never released, and it will not be released. Development has been discontinued.
+
+**Development discontinued — never released** · [Notice](https://norlay.fit/norlay-code/) · [Docs](https://norlay.fit/norlay-code/docs)
 
 ### Norlay Link Checker — a free NVDA add-on for Windows 11
 
@@ -41,6 +45,6 @@ Copy a web address, press **NVDA+Alt+L**, and a read-only window explains what t
 
 ## About this organization
 
-This organization hosts release downloads and release notes for Norlay and Norlay Code, and the published source of Norlay Link Checker. The source of Norlay and Norlay Code is not published here.
+This organization hosts release downloads and release notes for Norlay, and the published source of Norlay Link Checker. Norlay Code was discontinued before release and will not be released. The source of Norlay is not published here.
 
-Norlay is built independently by Yousef Elbanna. Norlay Code is built on the foundation of the open-source [OpenCode](https://opencode.ai) project. It is not affiliated with, endorsed by, or sponsored by OpenCode.
+Norlay is built independently by Yousef Elbanna. Norlay Code was built on the foundation of the open-source [OpenCode](https://opencode.ai) project. It is not affiliated with, endorsed by, or sponsored by OpenCode.
