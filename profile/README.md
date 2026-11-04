@@ -2,8 +2,6 @@
 
 **Turning real problems into better technology.**
 
-> **Norlay Code is discontinued.** It was never released and will not be released. [Read the notice](https://norlay.fit/norlay-code/).
-
 Norlay is an independent software brand by Yousef Elbanna, building practical desktop apps for the things people actually do every day. Accessibility is part of how each product is designed, not something added at the end.
 
 ## Products
