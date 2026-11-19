@@ -20,7 +20,8 @@ Opens real project folders, reads and edits files, runs commands in a built-in t
 
 Norlay Code was built for macOS and Windows. Development has come to a close before release, so the project will not be released. Thank you to everyone who followed along.
 
-**Development ended before release** · [Read the note](https://norlay.fit/norlay-code/) 
+**Development ended before release** · [Read the note](https://norlay.fit/norlay-code/)
+
 ### Norlay Link Checker — a free NVDA add-on for Windows 11
 
 Copy a web address, press **NVDA+Alt+L**, and a read-only window explains what the link is: the site it points to, what the path and query suggest, and anything that deserves caution. It runs on your own free Google Gemini key and never opens, fetches or saves the link.
