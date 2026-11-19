@@ -6,11 +6,13 @@ Norlay is an independent software brand by Yousef Elbanna, building practical de
 
 ## Products
 
-### Norlay — the everyday assistant for Mac
+### Norlay Assistant — the everyday assistant for Mac
 
-An AI assistant for apps, files, the web, reminders and your calendar, with a 61-tool kit and an offline voice mode. Fully usable with VoiceOver.
+An AI assistant for apps, files, the web, reminders and your calendar, with a 61-tool kit, Gemini Live voice using your own key, and a per-message activity log that shows what it did and what it found. Fully usable with VoiceOver.
 
-**Available now** · [Download](https://norlay.fit/norlay/) · [What's new](https://norlay.fit/whats-new)
+**Version 27.0.0 — available now** · [Download](https://norlay.fit/norlay/) · [What's new](https://norlay.fit/whats-new)
+
+New in 27.0.0: Gemini Live voice, a per-message **Working** and **Worked for** activity log with the model's thoughts in order, expandable command and tool results, and the Norlay Assistant name throughout.
 
 ### Norlay Code — the coding agent for Mac and Windows
 
@@ -43,6 +45,6 @@ Copy a web address, press **NVDA+Alt+L**, and a read-only window explains what t
 
 ## About this organization
 
-This organization hosts release downloads and release notes for Norlay, and the published source of Norlay Link Checker. Norlay Code development ended before release, and the project will not be released. The source of Norlay is not published here.
+This organization hosts release downloads and release notes for Norlay Assistant, and the published source of Norlay Link Checker. Norlay Code development ended before release, and the project will not be released. The source of Norlay Assistant is not published here.
 
 Norlay is built independently by Yousef Elbanna. Norlay Code was built on the foundation of the open-source [OpenCode](https://opencode.ai) project. It is not affiliated with, endorsed by, or sponsored by OpenCode.
