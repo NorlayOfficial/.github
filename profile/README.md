@@ -10,7 +10,7 @@ Norlay is an independent software brand by Yousef Elbanna, building practical de
 
 An AI assistant for apps, files, the web, reminders and your calendar, with a 61-tool kit, Gemini Live voice using your own key, and a per-message activity log that shows what it did and what it found. Fully usable with VoiceOver.
 
-**Version 27.0.0 — available now** · [Download](https://norlay.fit/norlay/) · [What's new](https://norlay.fit/whats-new)
+**Version 27.0.1 — available now** · [Download](https://norlay.fit/norlay-assistant/) · [What's new](https://norlay.fit/whats-new)
 
 New in 27.0.0: Gemini Live voice, a per-message **Working** and **Worked for** activity log with the model's thoughts in order, expandable command and tool results, and the Norlay Assistant name throughout.
 
@@ -20,8 +20,7 @@ Opens real project folders, reads and edits files, runs commands in a built-in t
 
 Norlay Code was built for macOS and Windows. Development has come to a close before release, so the project will not be released. Thank you to everyone who followed along.
 
-**Development ended before release** · [Read the note](https://norlay.fit/norlay-code/) · [Docs](https://norlay.fit/norlay-code/docs)
-
+**Development ended before release** · [Read the note](https://norlay.fit/norlay-code/) 
 ### Norlay Link Checker — a free NVDA add-on for Windows 11
 
 Copy a web address, press **NVDA+Alt+L**, and a read-only window explains what the link is: the site it points to, what the path and query suggest, and anything that deserves caution. It runs on your own free Google Gemini key and never opens, fetches or saves the link.
@@ -37,7 +36,7 @@ Copy a web address, press **NVDA+Alt+L**, and a read-only window explains what t
 ## Where to find us
 
 - Website: [norlay.fit](https://norlay.fit/)
-- Docs: [norlay.fit/docs](https://norlay.fit/docs)
+- Docs: [norlay.fit/norlay-assistant/docs](https://norlay.fit/norlay-assistant/docs/)
 - What's new: [norlay.fit/whats-new](https://norlay.fit/whats-new)
 - Release downloads: [norlay.fit](https://norlay.fit/) and [NorlayOfficial/norlay-releases](https://github.com/NorlayOfficial/norlay-releases)
 - Feedback: [norlay.fit/feedback](https://norlay.fit/feedback)
