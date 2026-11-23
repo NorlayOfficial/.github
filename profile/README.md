@@ -8,14 +8,14 @@ Norlay is an independent software brand by Yousef Elbanna.
 
 ### Norlay Assistant
 
-One desktop assistant for macOS and Windows. Version **27.1.0** is in release review; the latest published version remains **27.0.1 for macOS** until the review is complete.
+One desktop assistant for macOS and Windows. Version **27.1.0** is available.
 
-- [Preview and product information](https://norlay.fit/norlay-assistant/)
+- [Product page](https://norlay.fit/norlay-assistant/)
 - [What's new](https://norlay.fit/whats-new)
 - [Installation and help](https://norlay.fit/norlay-assistant/docs/)
 - [Downloads](https://norlay.fit/downloads)
 
-The release candidate is signed with an Apple Development certificate but is not notarized, and its Windows installers are unsigned. Screen-reader acceptance on physical macOS and Windows systems is still part of release review.
+The macOS app is signed with an Apple Development certificate but is not notarized; its Windows installers are unsigned. Manual VoiceOver, NVDA, and Narrator acceptance and installation on real Windows hardware remain to be completed.
 
 ### Norlay Link Checker
 
