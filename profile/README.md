@@ -2,49 +2,31 @@
 
 **Turning real problems into better technology.**
 
-Norlay is an independent software brand by Yousef Elbanna, building practical desktop apps for the things people actually do every day. Accessibility is part of how each product is designed, not something added at the end.
+Norlay is an independent software brand by Yousef Elbanna.
 
 ## Products
 
-### Norlay Assistant — the everyday assistant for Mac
+### Norlay Assistant
 
-An AI assistant for apps, files, the web, reminders and your calendar, with a 61-tool kit, Gemini Live voice using your own key, and a per-message activity log that shows what it did and what it found. Fully usable with VoiceOver.
+One desktop assistant for macOS and Windows. Version **27.1.0** is in release review; the latest published version remains **27.0.1 for macOS** until the review is complete.
 
-**Version 27.0.1 — available now** · [Download](https://norlay.fit/norlay-assistant/) · [What's new](https://norlay.fit/whats-new)
+- [Preview and product information](https://norlay.fit/norlay-assistant/)
+- [What's new](https://norlay.fit/whats-new)
+- [Installation and help](https://norlay.fit/norlay-assistant/docs/)
+- [Downloads](https://norlay.fit/downloads)
 
-New in 27.0.0: Gemini Live voice, a per-message **Working** and **Worked for** activity log with the model's thoughts in order, expandable command and tool results, and the Norlay Assistant name throughout.
+The release candidate is signed with an Apple Development certificate but is not notarized, and its Windows installers are unsigned. Screen-reader acceptance on physical macOS and Windows systems is still part of release review.
 
-### Norlay Code — the coding agent for Mac and Windows
+### Norlay Link Checker
 
-Opens real project folders, reads and edits files, runs commands in a built-in terminal, and shows every change as a reviewable diff before anything lands.
+A separate NVDA add-on project for Windows. Its source and releases are maintained in [NorlayOfficial/norlay-link-checker](https://github.com/NorlayOfficial/norlay-link-checker).
 
-Norlay Code was built for macOS and Windows. Development has come to a close before release, so the project will not be released. Thank you to everyone who followed along.
+### Norlay Code
 
-**Development ended before release** · [Read the note](https://norlay.fit/norlay-code/)
-
-### Norlay Link Checker — a free NVDA add-on for Windows 11
-
-Copy a web address, press **NVDA+Alt+L**, and a read-only window explains what the link is: the site it points to, what the path and query suggest, and anything that deserves caution. It runs on your own free Google Gemini key and never opens, fetches or saves the link.
-
-**Available now** · [Download](https://norlay.fit/norlay-link-checker/) · [Source](https://github.com/NorlayOfficial/norlay-link-checker)
-
-## How we build
-
-- **Accessibility first.** Screen reader support, keyboard navigation and VoiceOver are part of the design, not a pass at the end.
-- **Privacy by default.** Local models where possible, keys that stay on your machine, and no telemetry.
-- **Small, honest tools.** Every app should do one job well enough to keep. Nothing ships to inflate a product list.
+Norlay Code was discontinued before public release. It has no public download or support.
 
 ## Where to find us
 
-- Website: [norlay.fit](https://norlay.fit/)
-- Docs: [norlay.fit/norlay-assistant/docs](https://norlay.fit/norlay-assistant/docs/)
-- What's new: [norlay.fit/whats-new](https://norlay.fit/whats-new)
-- Release downloads: [norlay.fit](https://norlay.fit/) and [NorlayOfficial/norlay-releases](https://github.com/NorlayOfficial/norlay-releases)
-- Feedback: [norlay.fit/feedback](https://norlay.fit/feedback)
-- Facebook: [NorlayOfficial](https://www.facebook.com/NorlayOfficial)
-
-## About this organization
-
-This organization hosts release downloads and release notes for Norlay Assistant, and the published source of Norlay Link Checker. Norlay Code development ended before release, and the project will not be released. The source of Norlay Assistant is not published here.
-
-Norlay is built independently by Yousef Elbanna. Norlay Code was built on the foundation of the open-source [OpenCode](https://opencode.ai) project. It is not affiliated with, endorsed by, or sponsored by OpenCode.
+- [Website](https://norlay.fit/)
+- [Norlay Assistant release downloads](https://github.com/NorlayOfficial/norlay-releases)
+- [Feedback](https://norlay.fit/feedback)
